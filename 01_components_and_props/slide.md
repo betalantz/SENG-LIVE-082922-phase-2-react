@@ -5,7 +5,6 @@ presentation:
   controls: false
 ---
 
-<!-- slide -->
 
 <h2> 🚗 React Roadmap
 
@@ -17,7 +16,8 @@ The goals for Phase 2: </h2>
 
 - Add side effects and data fetching to communicate with a server (Network Communication)
 
-<!-- slide -->
+
+---
 
 <h1> Components and Props </h1>
 
@@ -25,14 +25,15 @@ The goals for Phase 2: </h2>
 
 <h2 style="text-align: center;"> ✅ Objectives </h2>
 
-✳️ Discuss the benefits of React over Vanilla JS
-✳️ Explain the importance of Components
-✳️ Practice writing components
-✳️ Define props and how to create them
-✳️ Recognize destructured props and how to work with them
-✳️ Render multiple components from a list
++ Discuss the benefits of React over Vanilla JS
++ Explain the importance of Components
++ Practice writing components
++ Define props and how to create them
++ Recognize destructured props and how to work with them
++ Render multiple components from a list
 
-<!-- slide -->
+
+---
 
 <h2> 💡 React Philosophy </h2>
 
@@ -42,7 +43,8 @@ The goals for Phase 2: </h2>
 - Use components to break down complex UI into smaller pieces which creates a better separation of concerns
 - Easier to maintain
 
-<!-- slide -->
+
+---
 
 <h2> React > Vanilla JS </h2>
 
@@ -80,25 +82,27 @@ const h1 = (
 </div>
 </div>
 
-<!-- slide -->
+
+---
 
 <h2> Wireframes </h2>
 
 <div style="display: flex; flex-direction: row;">
   <div>
-    <img src="https://res.cloudinary.com/dnocv6uwb/image/upload/v1643721399/wireframe_bfc35e.png">
+    <img width="1400px" src="https://res.cloudinary.com/dnocv6uwb/image/upload/v1643721399/wireframe_bfc35e.png">
   </div>
 
   <div style="font-size: 1.95rem; margin-top: 0.85rem;">
     What components could we use to build this app?
 
-<textarea style="font-size: 2rem; border: 2px solid black; padding: 1rem;" rows="10" cols="35"></textarea>    
+<textarea style="font-size: 2rem; border: 2px solid black; padding: 1rem;" rows="10" cols="25"></textarea>    
   </div>
 </div>
 
 
 
-<!-- slide -->
+
+---
 
 
 ## Let's Dive into the code!
@@ -109,7 +113,8 @@ const h1 = (
 - src/index.js
 - src/App.js
 
-<!-- slide -->
+
+---
 
 ## Sneak Peak at where we're going
 
