@@ -19,19 +19,29 @@ The goals for Phase 2: </h2>
 
 ---
 
-<h1> Components and Props </h1>
+<h2> Components and Props </h2>
 
 <!-- slide style="text-align: left;" -->
 
-<h2 style="text-align: center;"> ✅ Objectives </h2>
+<h3 style="text-align: center;"> ✅ Objectives </h3>
 
 + Discuss the benefits of React over Vanilla JS
 + Explain the importance of Components
 + Practice writing components
 + Define props and how to create them
 + Recognize destructured props and how to work with them
-+ Render multiple components from a list
 
+
+--
+
+<h2> Components and Props </h2>
+
+<!-- slide style="text-align: left;" -->
+
+<h3 style="text-align: center;"> ✅ Objectives </h3>
+
++ Recognize destructured props and how to work with them
++ Render multiple components from a list
 
 ---
 
